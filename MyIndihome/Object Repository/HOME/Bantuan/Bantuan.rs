@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Bantuan</name>
+   <tag></tag>
+   <elementGuidId>fb8f298f-e514-4f6c-8204-b29948b66347</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@class=&quot;nav-item&quot;]/a[text()=&quot;Bantuan&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[@class=&quot;nav-item&quot;]/a[text()=&quot;Bantuan&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

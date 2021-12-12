@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Berlangganan</name>
+   <tag></tag>
+   <elementGuidId>9d923df4-da21-44b2-a769-8dcf5eb001ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@class=&quot;nav-item&quot;]/a[text()=&quot;Berlangganan&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[@class=&quot;nav-item&quot;]/a[text()=&quot;Berlangganan&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
